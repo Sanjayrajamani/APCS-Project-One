@@ -48,7 +48,7 @@ public class Game extends PApplet {
     }
 
     public void collision(){
-      /*/  if(shop.col lides(player)){
+      /*/  if(shop.collides(player)){
             shop.updatePlayer(player);
         }
         if(restaurant.collides(player)){
