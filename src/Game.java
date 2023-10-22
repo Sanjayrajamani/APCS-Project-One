@@ -16,7 +16,7 @@ public class Game extends PApplet {
     }
 
     public void setup() {
-        // TODO: initialize game variables
+        // TODO: initialize game variables adding new update
     }
 
     /***
