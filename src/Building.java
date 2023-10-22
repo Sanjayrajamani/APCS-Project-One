@@ -11,6 +11,7 @@ public class Building {
         downY=y-length/2;
         this.x=x;
         this.y=y;
+        System.out.println("hello");
     }
 
     public void collides(Player player){
